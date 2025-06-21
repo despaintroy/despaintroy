@@ -1,6 +1,6 @@
 # Troy DeSpain – @despaintroy
 
-Hello! 👋 I'm a frontend software engineer at [Evidently](https://evidently.com), a [Utah State University](https://www.usu.edu/) computer science alum, and vice president of the annual [HackUSU](https://hackusu.com) student hackathon.
+Hello! 👋 I'm a software engineer at [Evidently](https://evidently.com) and a [Utah State University](https://www.usu.edu/) computer science alum.
 
 ## Projects
 
